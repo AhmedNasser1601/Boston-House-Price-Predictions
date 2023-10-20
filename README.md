@@ -5,6 +5,6 @@
 > ## **Machine Learning Internship**
 >> ### **[ahmednasser1601@gmail.com](mailto:ahmednasser1601@gmail.com)**
 
-> <table align="center"><tr><td><a href="#"><b>LinkedIn Post</b></a></td><td><a href="Code.ipynb"><b>Notebook File</b></a></td><td><a href="dataset.json"><b>Dataset</b></a></td></tr></table>
+> <table align="center"><tr><td><a href="#"><b>LinkedIn Post</b></a></td><td><a href="Boston-House-Price-Prediction.ipynb"><b>Notebook File</b></a></td><td><a href="boston.csv"><b>Dataset</b></a></td></tr></table>
 
 <img src="https://hits.sh/github.com/AhmedNasser1601/Price-Predictions.svg?label=Visits&logo=python"/>
