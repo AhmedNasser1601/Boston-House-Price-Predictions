@@ -4,7 +4,7 @@
 
 > ## **Machine Learning Internship**
 >> ### **[ahmednasser1601@gmail.com](mailto:ahmednasser1601@gmail.com)**
->>> #### <a href="#"><b>LinkedIn Post</b></a>
+>>> #### <a href="https://www.linkedin.com/posts/ahmednasser1601_machinelearning-syncinterns-activity-7122174852618162177-X8ZI?utm_source=share&utm_medium=member_desktop"><b>LinkedIn Post</b></a>
 
 > <table align="center"><tr><td>Code: <a href="Boston-House-Price-Prediction.ipynb"><b>Notebook File</b></a></td></tr><tr><td>Data: <a href="boston.csv"><b>Dataset</b></a></td></tr></table>
 
